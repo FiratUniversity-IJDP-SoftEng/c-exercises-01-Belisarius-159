@@ -20,6 +20,6 @@ int main(void) //This is my main function
     }
     return 0; //And we go back to beginning
 }
-//PS: This code is 90% Human and 10% AI. I am sorry but i really needed help for debugging
-
+//PS: This code is 90% Human and 10% AI. I am sorry but i really needed help for debugging 
+//I couldnt figure out how to use scanf function so i had to improvise. Again i am sorry
 
